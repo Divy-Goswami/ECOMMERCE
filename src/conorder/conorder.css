@@ -1,0 +1,10 @@
+.container2{
+    height: 500px;
+    display: grid;
+    place-items: center;
+    margin-left: 100px;
+}
+.pricediv{
+    margin-top: 10px;
+
+}

@@ -1,0 +1,34 @@
+.container1{
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    padding: 100px;
+   
+}
+.pricediv{
+    margin-top: 50px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.cod{
+    display: flex;
+    justify-content: space-between;
+    background-color: #D3F4EA;
+    opacity: 0.8;
+    padding: 20px;
+    border-radius: 15px;
+}
+.order{
+    width: 700px;
+    height: 300px;
+    padding: 20px;
+    margin-top: 50px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.btn{
+    display: grid;
+    place-items: center;
+}

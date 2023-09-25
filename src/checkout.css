@@ -1,0 +1,52 @@
+.con-cont{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+.headpay{
+    display: flex;
+    justify-content: space-between;
+}
+.details{
+    width: 500px;
+    margin-top: 90px;
+}
+.pdiv{
+    width: 500px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 20px;
+    border-right: none;
+    border-bottom: none;
+    margin-top: 50px;
+}
+.pricediv{
+    margin-top: 50px;
+}
+
+.pd{
+    display: flex;
+    justify-content: space-between; 
+}
+
+input{
+    border-left:none;
+    border-top: none;
+    border-right: none;
+    border-bottom-color: rgb(201, 193, 193);
+    width: 100%;
+}
+form{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 20px;
+}
+#cityin{
+    width: 45%;
+    margin-right: 15px;
+}
+#statein{
+    width: 45%;
+}
+.btndiv{
+    display: flex;
+    justify-content: space-around;
+}
